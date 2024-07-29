@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "924566005196",
+    "firebase_url": "https://waitez-39bfc-default-rtdb.firebaseio.com",
+    "project_id": "waitez-39bfc",
+    "storage_bucket": "waitez-39bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924566005196:android:3acf1d05a88ff670abe969",
+        "android_client_info": {
+          "package_name": "com.example.waitez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANwdKJdYovhhc3yPGGiye7yXFwA6QSZ68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "messaging_sender_id": "924566005196"
+    }
+  ],
+  "configuration_version": "1"
+}
